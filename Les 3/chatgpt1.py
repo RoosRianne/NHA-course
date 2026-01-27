@@ -1,0 +1,6 @@
+naam=input("Wat is je naam?")
+print("Hallo",naam)
+leeftijd=input("Hoe oud ben je?")
+print("Je bent", leeftijd, "jaar oud!")
+geslacht=input("Wat is je geslacht?")
+print("Hallo",naam, "Je bent een",geslacht)
